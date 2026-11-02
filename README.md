@@ -1,10 +1,16 @@
-> ## ⚠️ 这个仓库已经停止更新，请去新的官方公开库 👇
+> ## 🧪 这是「试验版 / 前瞻功能」仓库
 >
-> # 👉 **[cyber-xiaoya / cyber-xiaoya-live](https://github.com/cyber-xiaoya/cyber-xiaoya-live)**
+> 这里放的是**正在试验的新功能**：可能不稳定、随时会改、不保证跑通。
+> **稳定版 / 正式版请用 👉 [cyber-xiaoya / cyber-xiaoya-live](https://github.com/cyber-xiaoya/cyber-xiaoya-live)**
 >
-> 本仓库只是发布过程中的**临时副本**（内容定格在 2026-11-02 的快照）。
-> **功能更新、安装文档、Issue、版本发布全部在 [cyber-xiaoya-live](https://github.com/cyber-xiaoya/cyber-xiaoya-live)**，
-> 请不要在这个仓库提 Issue 或下载，那边才是最新、最完整的版本（AGPL-3.0，作者：天工开帧）。
+> | | 本仓库（试验版） | [正式版仓库](https://github.com/cyber-xiaoya/cyber-xiaoya-live) |
+> |---|---|---|
+> | 内容 | 前瞻功能、还没经过长时间实播验证的改法 | 已实播验证的稳定版本 |
+> | 适合 | 尝鲜、看实现思路、提建议 | **真正开播就用这个** |
+> | 文档 | 可能滞后 | 完整（安装 / 配置 / 常见问题） |
+> | 反馈 | 功能讨论可以在本仓库提 | 使用问题请到那边提 |
+>
+> 两个仓库功能会**周期性同步**：试验版验证通过 → 合并进正式版。
 
 ---
 
