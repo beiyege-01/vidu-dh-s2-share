@@ -84,12 +84,6 @@ tools/          自检与调试脚本（selfcheck / stage_verify / 弹幕回放 
 - **语言模型合规**：人设里明确避开政治/色情/暴力；被问隐私会岔开
 - 本项目只负责"编排 + 推流"，不含 Vidu s2 的账号与计费
 
-## License
-
-仅供学习与个人直播使用。使用 Vidu 服务需遵守其平台条款。
-
----
-
 ## 许可证
 
 - **代码**：[GNU AGPL-3.0](./LICENSE) —— 与本项目正式版 [cyber-xiaoya-live](https://github.com/cyber-xiaoya/cyber-xiaoya-live) 同一授权
