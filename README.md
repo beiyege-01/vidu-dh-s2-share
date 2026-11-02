@@ -1,3 +1,13 @@
+> ## ⚠️ 这个仓库已经停止更新，请去新的官方公开库 👇
+>
+> # 👉 **[cyber-xiaoya / cyber-xiaoya-live](https://github.com/cyber-xiaoya/cyber-xiaoya-live)**
+>
+> 本仓库只是发布过程中的**临时副本**（内容定格在 2026-11-02 的快照）。
+> **功能更新、安装文档、Issue、版本发布全部在 [cyber-xiaoya-live](https://github.com/cyber-xiaoya/cyber-xiaoya-live)**，
+> 请不要在这个仓库提 Issue 或下载，那边才是最新、最完整的版本（AGPL-3.0，作者：天工开帧）。
+
+---
+
 # 云端数字人 · 组件版（Vidu s2）
 
 > 只做「渲染 + 推流」的数字人外壳：**画面与口型交给 Vidu s2，声音、大模型、弹幕、放歌全在你自己的机器上跑。**
