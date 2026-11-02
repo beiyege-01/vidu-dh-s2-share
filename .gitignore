@@ -1,0 +1,13 @@
+config.json
+config.json.bak
+key.txt
+*.log
+.venv/
+__pycache__/
+logs/
+recordings/
+data/*.local.json
+audio/cache/
+*.wav
+*.mp3
+*.flac
