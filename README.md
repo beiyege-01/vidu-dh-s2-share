@@ -11,6 +11,9 @@
 > | 反馈 | 功能讨论可以在本仓库提 | 使用问题请到那边提 |
 >
 > 两个仓库功能会**周期性同步**：试验版验证通过 → 合并进正式版。
+>
+> 📜 **开源协议与本仓库一致**：代码 [GNU AGPL-3.0](./LICENSE)，素材/品牌见 [NOTICE](./NOTICE)，
+> **永久免费、不卖课、不卖安装服务**（详见文末「许可证」「关于倒卖」）。
 
 ---
 
@@ -84,3 +87,42 @@ tools/          自检与调试脚本（selfcheck / stage_verify / 弹幕回放 
 ## License
 
 仅供学习与个人直播使用。使用 Vidu 服务需遵守其平台条款。
+
+---
+
+## 许可证
+
+- **代码**：[GNU AGPL-3.0](./LICENSE) —— 与本项目正式版 [cyber-xiaoya-live](https://github.com/cyber-xiaoya/cyber-xiaoya-live) 同一授权
+- **素材与品牌**：见 [NOTICE](./NOTICE)，**不在 AGPL 授权范围内**
+- 第三方依赖见 `requirements.txt`
+
+> 简单说：**改代码、自己用、二次开发都行，但改了要照样开源（AGPL）**；
+> 人物形象、克隆音色、人设、歌单、动作库这些素材不随代码授权，别拿去商用或倒卖。
+
+## 关于倒卖
+
+本项目**代码免费、永久免费**，我们不会在任何平台出售它。
+
+> ⚠️ **本项目没有官方 QQ 群、微信群，也不卖课、不卖安装服务。**
+> 任何以「官方答疑群」「内部版」「授权版」「代部署」名义收费的，都不是我，请直接拉黑。
+
+如果你看到有人在卖，那不是官方行为，欢迎把链接发到
+[正式版仓库的 Issue](https://github.com/cyber-xiaoya/cyber-xiaoya-live/issues)。
+也提醒买家：盗版没有更新、没有答疑、出了问题也没人负责。
+
+## 关注作者
+
+赛博小雅是我（**天工开帧**）在业余时间做的开源项目。想看她直播、催更、或者聊聊实现细节，来这些地方找我：
+
+| 平台 | 链接 |
+|---|---|
+| 🎵 抖音 | <https://v.douyin.com/BgCJXnllitM/> |
+| 📺 哔哩哔哩 | <https://space.bilibili.com/11946287> |
+| ▶️ YouTube | <https://www.youtube.com/@jintaoyi> |
+| ✖️ X / Twitter | <https://x.com/yijt1339303> |
+| 📝 博客 · 教程 | <https://www.19980303.xyz/> |
+| 💻 GitHub | <https://github.com/beiyege-01> |
+
+> **使用问题**请提到正式版仓库的 [Issue](https://github.com/cyber-xiaoya/cyber-xiaoya-live/issues)（公开可查，后来人也能搜到）；
+> **本仓库（试验版）的 Issue** 只适合讨论前瞻功能的思路。
+> 想直接看效果：抖音直播间搜「天工开帧」，晚上常有直播。
